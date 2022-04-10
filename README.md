@@ -1,5 +1,5 @@
 # Oil Probability (Bayes' theorem)
-> Description : C++ Program to Calculate a Integral
+> Description : C++ Program to calculates the Oil Probability using Bayes' theorem
 >>-    The programDescription() function outputs to the user the description on what the program is for.
 >>-    The getOilProbabilities() Gets the findings of the probabilities oil and oil of soil.
 >>-    The calculateLoTP() uses law of total probability using the values from getOilProbabilities() function
