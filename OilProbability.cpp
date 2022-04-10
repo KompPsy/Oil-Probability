@@ -44,9 +44,7 @@ struct oilFinder{
     double medGradeProb;
     double noOilGradeProb;
 
-
 };
-
 
 void programDescription();
 void getOilProbabilities();
