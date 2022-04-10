@@ -77,11 +77,11 @@ void getOilProbabilities(){
     oilFinder oil;
 
     oil.highGradeOil = 0.5;
-    oil.highGradeOilWSoil=.2;
+    oil.highGradeOilWSoil = .2;
     oil.mediumGradeOil = 0.2;
-    oil.mediumGradeOilWSoil=.8;
+    oil.mediumGradeOilWSoil = .8;
     oil.noOil = 0.3;
-    oil.noGradeOilWSoil=.2;
+    oil.noGradeOilWSoil =.2;
     return;
 
 }
