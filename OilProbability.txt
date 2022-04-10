@@ -1,0 +1,4 @@
+This program determines the probability of finding oil in this of a oil company that purchase land in alaska.
+Probability with High Grade oil in soil: 0.3125
+Probability with Medium Grade oil in soil: 0.5
+Probability with no Grade oil in soil: 0.1875
